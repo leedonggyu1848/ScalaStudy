@@ -15,10 +15,12 @@
   
   예를 들어, 챕터 3~4가 이번 범위였다면 `~ Chapter 4` 로 적습니다.
 - 공부한 자료에는 이런 내용들이 포함되면 좋을 것 같습니다(모두 써야 할 필요는 없습니다).
-  - **필수** 연습문제 풀이
+  - **필수** 연습문제 풀이, 공부한 내용 간단 요약
   - 실습하면서 해결한 트러블
   - 알아두면 좋을 이론적 배경
   - 책에서 잠깐 언급하고 지나친 부분에 대한 Further Study
 
 ## 스터디 참여자
 - [@leedonggyu1848](https://github.com/leedonggyu1848)
+- [@murry2018](https://github.com/murry2018)
+- [@LeeSH825](https://github.com/LeeSH825)
