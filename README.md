@@ -25,3 +25,4 @@
 - [@murry2018](https://github.com/murry2018)
 - [@LeeSH825](https://github.com/LeeSH825)
 - [@0308bae](https://github.com/0308bae)
+- [@KindBeeeeear_](https://github.com/dlgkdrb2)
